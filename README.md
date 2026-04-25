@@ -1,5 +1,6 @@
 # 📌 MwPVT：Multi-window Parallel Voxel Transformer with Center Optimization Strategy for 3D Object Detection
 ![](https://github.com/zhiyuan0609/MwPVT/blob/main/figures/2.png)
+![](https://github.com/zhiyuan0609/MwPVT/blob/main/figures/5.png)
 MwPVT processes point clouds by first extracting group sampling features through a Group Sampling Strategy, then employs GSF modules for local geometry extraction and the GLF Block with PVA/GLA attention for multi-scale feature enhancement. This approach effectively expands the receptive field while capturing comprehensive geometric structure information.💥
 # 👉 NOTE
 This repo is implementation for MwPVT in pytorch. Our paper is accepted at Artificial Life and Robotics.🔥
